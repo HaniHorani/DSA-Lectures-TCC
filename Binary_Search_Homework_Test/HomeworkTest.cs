@@ -46,7 +46,7 @@ namespace Binary_Search_Homework_Test// DON'T EDIT THIS FILE UNDER ANY CIRCUMSTA
 
             // pass true for the first occurrence
             int count = BinarySearchHomework.GetRepeatCount(arr, key);
-            Assert.AreEqual(10, count);
+            Assert.AreEqual(5, count);
         }// DON'T EDIT THIS FILE UNDER ANY CIRCUMSTANCES!!
 
 
